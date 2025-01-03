@@ -1,2 +1,4 @@
-# Projet-Flutter
-Projet avec flutter gestion des evenements
+# Authors:
+
+-Oussama TAZI
+-Houssam El Azami El Idrissi
